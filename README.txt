@@ -1,3 +1,1 @@
-
-pip install requests
-py t.py
+cd Desktop && pip install requests && python t.py
